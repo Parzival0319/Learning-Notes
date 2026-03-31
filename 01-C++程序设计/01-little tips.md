@@ -18,5 +18,5 @@
    ```c
      while(scanf("%s", word[cnt]) == 1) {
         cnt++;
-    } // 最优循环
+    } // 最优循环(依赖 EOF)
   ```
